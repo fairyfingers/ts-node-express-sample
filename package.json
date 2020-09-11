@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/fairyfingers/ts-node-express-sample/issues"
   },
-  "homepage": "https://github.com/fairyfingers/ts-node-express-sample#readme"
+  "homepage": "https://github.com/fairyfingers/ts-node-express-sample#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
 }
